@@ -15,12 +15,12 @@ In the coming months, together with the group **3e Œil**, development will star
 ### 🏀 **Sports Management Platform**  
 Ongoing university project: developing a platform to centralize sports data for the women’s handball club **Paris 92**.
 
-
+<!--
 ## 💡 Other Achievements  
 
 - 🏠 **Projects in Finland**  
 A repository containing the projects and exercises I completed during my year of study in Finland (2023-2024) is available on my profile. This training was enriched with comprehensive development exercises, making it relevant to highlight them on my profile.
-
+-->
 
 ## 🏃‍♂️ Sports Passions  
 
